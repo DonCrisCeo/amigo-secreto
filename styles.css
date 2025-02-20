@@ -1,0 +1,26 @@
+body {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.input-area {
+  margin-bottom: 20px;
+}
+
+#nombres-lista {
+  list-style: none;
+  padding: 0;
+  margin-bottom: 20px;
+}
+
+#nombres-lista li {
+  margin-bottom: 10px;
+}
+
+.sort-area {
+  margin-bottom: 20px;
+}
+
+#resultado {
+  font-weight: bold;
+}
